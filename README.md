@@ -32,12 +32,13 @@ python token_grabber.py
 This project is magically inspired by the works of **AstraaDev**  
 
 
-## 📜 LICENSE
-The project uses the [Crystal License](LICENSE) - a modified MIT license.
+## 📜 LICENSE 
+[![License](https://img.shields.io/badge/License-Crystal_License-blue.svg)](LICENSE)  
+*A modified MIT license*
 
 ## 📸 WEBHOOK PREVIEW
 ![Webhook Preview](./assets/example.png)
-*Example of the rich embed webhook output*
+
 
 ## 🔥 DISCLAIMER
 ```diff
