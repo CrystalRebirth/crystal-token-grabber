@@ -36,7 +36,7 @@ This project is magically inspired by the works of **AstraaDev**
 The project uses the [Crystal License](LICENSE) - a modified MIT license.
 
 ## 📸 WEBHOOK PREVIEW
-![Webhook Preview](https://i.imgur.com/2XUBmmh)
+![Webhook Preview](assets/example.png)
 *Example of the rich embed webhook output*
 
 ## 🔥 DISCLAIMER
