@@ -30,13 +30,13 @@ python token_grabber.py
 
 ## 🧙‍♂️ INSPIRATION
 This project is magically inspired by the works of **AstraaDev**  
-*"Like a phoenix from the ashes, but with more tokens"* - Ancient Crystal Prophecy
+
 
 ## 📜 LICENSE
 The project uses the [Crystal License](LICENSE) - a modified MIT license.
 
 ## 📸 WEBHOOK PREVIEW
-![Webhook Preview](assets/example.png)
+![Webhook Preview](./assets/example.png)
 *Example of the rich embed webhook output*
 
 ## 🔥 DISCLAIMER
